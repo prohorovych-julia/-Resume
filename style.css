@@ -58,6 +58,9 @@ a:visited {
     background: #f3f6fe;
 }
 
+.bg-gray p {
+    color: #86898f;
+}
 
 .card {
     padding: 15px 20px;
